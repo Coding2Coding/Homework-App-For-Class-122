@@ -1,0 +1,16 @@
+#bodyTag {
+	text-align: center;
+}
+span {
+	font-size: 14px;
+	color: rgb(162, 226, 255);
+	border-color: rgb(208, 213, 255);
+	border-width: 7px;
+	border-style: solid;
+}
+canvas {
+	background: rgb(208, 213, 255);
+	border-radius: 20px;
+	border-style: dotted;
+	border-color: lightpink;
+}
